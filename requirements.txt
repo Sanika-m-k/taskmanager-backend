@@ -5,3 +5,4 @@ django-cors-headers
 # mysqlclient==2.2.7  <- Remove or comment out this line
 PyMySQL
 dotenv
+gunicorn
